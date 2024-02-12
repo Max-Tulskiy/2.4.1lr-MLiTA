@@ -1,6 +1,6 @@
-algo1_lab/x64
+x64/
+.vs/
+algo1_lab/x64/
 algo1_lab/algo1_lab.vcxproj
 algo1_lab/algo1_lab.vcxproj.filters
 algo1_lab/algo1_lab.vcxproj.user
-x64/
-.vs/
